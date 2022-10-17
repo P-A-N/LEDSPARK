@@ -1,3 +1,9 @@
-# LEDSPARK
-max patch for LEDSPARK 300
-https://www.soundhouse.co.jp/download/se/LEDSPARK300RGB%20v1.00.pdf
+DMX USB PRO MAX
+=====================
+
+Enttec DMX USB Pro patcher for Cycling '74 Max
+
+by Thomas Ouellet Fredericks
+
+Enttec DMX USB Pro product link :
+http://www.enttec.com/?main_menu=Products&pn=70304
