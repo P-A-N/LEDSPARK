@@ -95,7 +95,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 381.0, 315.0, 96.0, 20.0 ],
-					"presentation_linecount" : 2,
 					"text" : "フラッシュ時間"
 				}
 
@@ -343,8 +342,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 58.0, 588.0, 78.0, 22.0 ],
-					"text" : "dmxusbpro b"
+					"patching_rect" : [ 58.0, 588.0, 77.0, 22.0 ],
+					"text" : "dmxusbpro c"
 				}
 
 			}
@@ -2844,6 +2843,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-51", 0 ],
 					"source" : [ "obj-53", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-3", 0 ],
+					"source" : [ "obj-66", 0 ]
 				}
 
 			}
